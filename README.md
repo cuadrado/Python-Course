@@ -29,6 +29,22 @@ FFT, minimum of functions, statistical operations, clusters analysis, signal and
 It is used for data visualization as a (mainly) 2D plotting library. You can generate plots, histograms, power spectra, bar charts, errorcharts, scatterplots, etc. It is used along with NumPy to provide an environment that is an effective open source alternative for MatLab.
 --->
 
+## Classes
+
+1. Numbers
+2. Strings
+3. Lists
+4. Flow
+5. Dictionaries
+6. Functions
+7. Classes
+8. Iterators
+9. Files
+10. Parallel programming
+11. Standard Library
+12. Data bases
+13. NumPy
+
 ## References
 - [The Python Standard Library](https://docs.python.org/3.5/library/)
 - [The Python Tutorial](https://docs.python.org/3.5/tutorial/index.html)
