@@ -1,5 +1,7 @@
 # Python-Course
-Projects and exercises from the "Introduction to Python in Engineering" course with Prof. Hermano Cabral at UFPE.
+Projects, exercises and classes from the "Introduction to Python in Engineering" course with Prof. Hermano Cabral at UFPE.
+
+Note: If you can't visualize the classes (Jupyter Notebooks), just copy and paste the url to the nbviwer: https://nbviewer.jupyter.org/
 
 ## Practice
 There will be lists of exercises to solve on the Codewars platform.
@@ -44,6 +46,10 @@ It is used for data visualization as a (mainly) 2D plotting library. You can gen
 11. Standard Library
 12. Data bases
 13. NumPy
+14. NumPy Indexing
+15.	NumPy Operations
+16. SciPy Basics
+17. SciPy Image Processing
 
 ## References
 - [The Python Standard Library](https://docs.python.org/3.5/library/)
